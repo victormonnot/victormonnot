@@ -26,6 +26,6 @@ I am currently working on experimental projects exploring:
 
 ## Long-term vision
 
-I am interested in exploring brain-to-brain communication systems ("BrainNet") as a potential new form of communication beyond language.
+My long-term interest is the development of brain-to-brain communication systems ("BrainNet"), where humans could exchange information directly through neural signals rather than language.
 
-This would involve bidirectional brain-computer interfaces enabling both neural signal decoding and neural stimulation, allowing humans and intelligent systems to exchange information more directly.
+This would rely on bidirectional brain-computer interfaces capable of both reading and writing information in the brain, potentially allowing humans and AI systems to interact through shared representations.
