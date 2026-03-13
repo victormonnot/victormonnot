@@ -8,9 +8,8 @@ Machine Learning / Deep Learning student based in Toulouse.
 - AI architectures inspired by neuroscience
 - World models
 - Self-supervised learning
-- Continual learning
+- Active inference
 - Multimodal models
-- Embodied AI
 - Multi-agent systems and embodied swarm intelligence (Robot / Drones swarm)
 
 ## Long-term vision
