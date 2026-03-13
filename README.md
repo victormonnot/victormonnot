@@ -1,6 +1,6 @@
 # Victor Monnot
 
-Machine Learning / Deep Learning student based in Toulouse.
+Machine Learning / Deep Learning student based in Toulouse, France.
 
 ## Research Interests
 
