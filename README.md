@@ -10,7 +10,7 @@ Machine Learning / Deep Learning student based in Toulouse, France.
 - Self-supervised learning
 - Active inference
 - Multimodal models
-- Multi-agent systems and embodied swarm intelligence (Robot / Drones swarm)
+- Multi-agent systems and embodied swarm intelligence (Robots / Drones swarm)
 
 ## Long-term vision
 
