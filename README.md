@@ -6,10 +6,9 @@ Machine Learning / Deep Learning student based in Toulouse, France.
 
 - Brain-Computer Interfaces
 - AI architectures inspired by neuroscience
-- World models
-- Self-supervised learning
-- Active inference
 - Multimodal models
+- World models
+- Active inference
 - Multi-agent systems and embodied swarm intelligence (Robots / Drones swarm)
 
 ## Long-term vision
