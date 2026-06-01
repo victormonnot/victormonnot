@@ -15,7 +15,7 @@ Based in Toulouse, France.
 My long-term interest is the development of brain-to-brain communication
 systems (BrainNet), where humans could exchange information directly
 through neural signals rather than language. A first building block toward
-this is real-world swarm robotics — embodied AI agents (drones, robots)
+this is real-world swarm robotics: embodied AI agents (drones, robots)
 coordinating as one system in the physical world.
 
 This would rely on bidirectional brain-computer interfaces capable of both
